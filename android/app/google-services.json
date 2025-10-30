@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429535565319",
+    "project_id": "fluttertask-e528a",
+    "storage_bucket": "fluttertask-e528a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429535565319:android:eee1b45d060124d085bca2",
+        "android_client_info": {
+          "package_name": "com.example.bayantz_flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX7hkyiXtq0lqPlQv5gjaHyH8CshlQT6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
